@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarjelavik" alt="tarjelavik" /> </p>
 
-- 🔭 I’m currently working on [sanity-template-muna](https://github.com/tarjelavik/sanity-template-muna)
+- 🔭 I’m currently working on [Muna](https://docs.muna.xyz/) and the [sanity-template-muna](https://github.com/tarjelavik/sanity-template-muna)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
